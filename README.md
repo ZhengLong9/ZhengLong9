@@ -1,1 +1,3 @@
-<h1 style="color:#3B82F6;">Hello 👋, I am Zheng Long</h1>
+<span style="color:#3B82F6; font-size:2em; font-weight:bold;">
+  Hello 👋, I am Zheng Long
+</span>
